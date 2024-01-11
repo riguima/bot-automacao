@@ -1,0 +1,23 @@
+-i https://pypi.org/simple
+evdev==1.6.1; 'linux' in sys_platform
+jinja2==3.1.3; python_version >= '3.7'
+keyboard==0.13.5
+markupsafe==2.1.3; python_version >= '3.7'
+mouseinfo==0.1.3
+pillow==10.2.0; python_version == '3.11'
+pyautogui==0.9.54
+pygetwindow==0.0.9
+pymsgbox==1.0.9
+pynput==1.7.6
+pyperclip==1.8.2
+pyrect==0.2.0
+pyscreeze==0.1.30
+pyside6==6.6.1; python_version < '3.13' and python_version >= '3.8'
+pyside6-addons==6.6.1; python_version < '3.13' and python_version >= '3.8'
+pyside6-essentials==6.6.1; python_version < '3.13' and python_version >= '3.8'
+python-xlib==0.33; 'linux' in sys_platform
+python3-xlib==0.15; python_version >= '3.0' and platform_system == 'Linux'
+pytweening==1.0.7
+qt-material==2.14; python_version >= '3.7'
+shiboken6==6.6.1; python_version < '3.13' and python_version >= '3.8'
+six==1.16.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
